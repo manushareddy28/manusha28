@@ -5,7 +5,7 @@
 - 🔭 Working with LangChain, LangGraph, Flask, and Angular
 - 🔍 Focused on RAG systems, multi-agent LLM apps, and semantic search
 - 📚 Built real-world GenAI chatbots over MongoDB + vector DBs
-- 🏆 2nd Place Winner – Google Agentic AI Hackathon 2024
+- 🏆 2nd Place Winner – Google Agentic AI Hackathon 2025
 
 ### 🚀 Projects
 - 🔹 Multi-Agent Chatbot (LangGraph + Flask)
